@@ -1,4 +1,4 @@
-Hi, I am Nick Uwagwu.
+### This is Nick Uwagwu.
 I’m interested in learning Data Science.
 I’m currently learning with Dahel Techies.
 I look forward  to collaborating with like minds.
